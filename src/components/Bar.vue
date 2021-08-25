@@ -53,7 +53,7 @@ export default {
           max: 26000000,
           interval: 5000000,
           axisLabel: {
-            formatter: value => value/10000
+            formatter: value => value / 10000
           }
         }],
         series: [
